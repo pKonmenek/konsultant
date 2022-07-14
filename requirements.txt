@@ -1,0 +1,10 @@
+aniso8601==9.0.1
+asgiref==3.5.2
+backports.zoneinfo==0.2.1
+Django==4.0.6
+graphene==3.1
+graphql-core==3.2.1
+graphql-relay==3.2.0
+gunicorn==20.1.0
+sqlparse==0.4.2
+psycopg2
